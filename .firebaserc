@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "appsoportesena": {
+      "hosting": {
+        "appsoporte": [
+          "appsoportesena"
+        ]
+      }
+    }
+  }
+}
